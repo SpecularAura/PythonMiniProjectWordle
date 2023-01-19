@@ -3,7 +3,7 @@
 - Go to the directory of choice and type `git clone https://github.com/SpecularAura/PythonMiniProjectWordle.git`
 - Make a virtual environemnt 
 	- Windows: 
-		- Make sure python can be run in the environment
+		- Make sure **python*3*** can be run in the environment
 		- `python -m venv env`
 		- `.\env\Scripts\activate`
 		- `pip install -r requirements.txt`
